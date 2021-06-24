@@ -1,6 +1,7 @@
 # slideshow
 A Java slideshow application that sorts Photographs by Date, Rating, and Caption.
- ********READ_ME************
+
+ ********READ_ME*********
 
 From_Instagram_To_Flickr
 
